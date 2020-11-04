@@ -1,5 +1,5 @@
 <I COCTYPE html>
-<html dir=rtl" lang="fa">
+<html dir=rlt" lang="fa">
 <head>
 <meta chaset="utf-8>
 <title>صفحه ی فارسی راست چین می باشد</title>
