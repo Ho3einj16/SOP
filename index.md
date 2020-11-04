@@ -1,11 +1,11 @@
 <I COCTYPE html>
-<html dir=rlt" lang="fa">
+<html dir="rtl" lang="fa">
 <head>
-<meta chaset="utf-8>
+<meta chaset="utf-8">
 <title>صفحه ی فارسی راست چین می باشد</title>
 </head>
 <body>
-<div dir="rlt>
+<div dir="rlt">
 باسلام
 <br>
 
